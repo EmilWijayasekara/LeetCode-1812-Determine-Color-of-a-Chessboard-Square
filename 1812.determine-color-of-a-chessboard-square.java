@@ -1,10 +1,3 @@
-/*
- * @lc app=leetcode id=1812 lang=java
- *
- * [1812] Determine Color of a Chessboard Square
- */
-
-// @lc code=start
 class Solution {
     public boolean squareIsWhite(String coordinates) {
         int a,b;
@@ -15,5 +8,4 @@ class Solution {
         else return true;
     }
 }
-// @lc code=end
-
+//  https://github.com/EmilWijayasekara
